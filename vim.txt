@@ -1,0 +1,45 @@
+ctrl+w, s new horizontal window
+ctrl+w, v new horizontal window
+ctrl+w, c close window
+
+s to insert mode and del char
+O to insert and add new line below
+o to insert and add new line below
+w for word like dw would delete a word
+
+W/w move until start of next word
+E/e move until end of next word
+
+B/b move back to start of a word
+ge move back to end of prev word
+
+
+g_/$ move until the end of line
+0/_ move until start of line
+
+gg to first line of doc
+G to last line of doc
+<n>gg to nth line
+
+gd move to local declaration and gD global?
+
+f<string> to next occurence
+t<string> to before next occurence?
+F<string> to prev occurence
+T<string> to before prev?
+; repeat prefious find aka above 4
+, repeat above backwards?
+
+cw replace till end of word
+ciw replace word
+s replace word
+S/cc replace whole line
+C replace till end of line
+
+number d j/k to delete multiple lines
+d delete line
+j down
+k uo
+u undo
+r redo
+

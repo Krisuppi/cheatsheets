@@ -1,0 +1,17 @@
+tmux new.    session
+tmux attach. attach 
+ctrl+b,d.    detach current session
+ctrl+b,%.    split vertically
+ctrl+b, ".   split horizantally
+ctrl+b, z.   minimize or maximize pane
+ctrl+b,      arrow. choose pane
+ctrl+b,x.    close
+ctrl+b : resize pane -U upwards -D -L -R
+
+windows needed?
+
+
+
+
+
+
